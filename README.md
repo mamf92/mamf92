@@ -27,7 +27,7 @@ After years in the classroom, I decided to pursue my long-standing interest in t
 ## ✨ A Few Highlights
 
 - 👨‍🏫 Former teacher, now applying my skills to create intuitive UI and accessible UX
-- 🔍 Accessibility-focused: Ensuring alternative modes of navigating the UI with skip-links and 
+- 🔍 Accessibility-focused: Ensuring alternative modes of navigating the UI
 - 🏳️‍🌈 Building inclusive web experiences with a focus on community and usability
 
 ---
