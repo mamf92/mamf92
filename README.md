@@ -35,7 +35,7 @@ After years in the classroom, I decided to pursue my long-standing interest in t
 ## 📫 Let's Connect
 
 - **LinkedIn:** [https://www.linkedin.com/in/mamf92/]
-- **GitHub Pages Portfolio:** [mamf.no]
+- **GitHub Pages Portfolio:** [https://mamf.no] 
 
 ---
 
