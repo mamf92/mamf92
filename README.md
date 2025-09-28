@@ -9,7 +9,7 @@ After years in the classroom, I decided to pursue my long-standing interest in t
 ## 🌱 What I'm Currently Working On
 
 - 🎓 Completing my frontend development studies at Noroff
-- 💻 Building a portfolio page using HTML, CSS, vanilla JavaScript, and accessibility best practices
+- 🎲 Creating a website for my first client, Stavanger Boardgame Club
 - 🚀 Developing a Eurovision-themed party app with multiplayer quiz and scoreboard functionality
 - 🧪 Learning more about testing, backend basics, and performance optimization
 
@@ -18,7 +18,7 @@ After years in the classroom, I decided to pursue my long-standing interest in t
 ## 🛠 Tech Stack
 
 - **Languages & Frameworks:** HTML, CSS, JavaScript
-- **Learning:** TypeScript, React, Node.js 
+- **Learning:** TypeScript, React, Node.js, Express.js 
 - **Styling:** Tailwind, CSS Modules
 - **Tools:** Git, GitHub, Figma, Vite, VS Code
 
