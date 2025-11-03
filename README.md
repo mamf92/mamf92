@@ -2,7 +2,7 @@
 
 I'm a frontend developer based in Norway but open to explore the world. I am currently transitioning from a background in teaching to the exciting world of development. I bring strong communication skills, a user-focused mindset, and a passion for clean, accessible code.  
 
-After years in the classroom, I decided to pursue my long-standing interest in technology. Today, I enjoy building responsive, inclusive, and maintainable web interfaces — and I’m constantly learning to improve my skills and broaden my toolset.
+After years in the classroom, I decided to pursue my long-standing interest in technology. Today, I enjoy building responsive, inclusive, and maintainable web interfaces, and I’m constantly learning to improve my skills and broaden my toolset.
 
 ---
 
@@ -17,10 +17,9 @@ After years in the classroom, I decided to pursue my long-standing interest in t
 
 ## 🛠 Tech Stack
 
-- **Languages & Frameworks:** HTML, CSS, JavaScript
-- **Learning:** TypeScript, React, Node.js, Express.js 
-- **Styling:** Tailwind, CSS Modules
-- **Tools:** Git, GitHub, Figma, Vite, VS Code
+- **Languages & Frameworks:** React, TypeScript, Tailwind CSS, Bootstrap 
+- **Learning:** Sanity, Firebase, Node.js, Express.js 
+- **Tools:** GitHub, Figma, VS Code
 
 ---
 
