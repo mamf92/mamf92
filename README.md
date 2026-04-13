@@ -18,7 +18,7 @@ After years in the classroom, I decided to pursue my long-standing interest in t
 ## 🛠 Tech Stack
 
 - **Languages & Frameworks:** React, TypeScript, Tailwind CSS, Bootstrap 
-- **Learning:** Sanity, Firebase, Node.js, Express.js 
+- **Learning:** Sanity, Firebase, Node.js, Express.js, Supabase 
 - **Tools:** GitHub, Figma, VS Code
 
 ---
@@ -38,6 +38,6 @@ After years in the classroom, I decided to pursue my long-standing interest in t
 
 ---
 
-> “I believe everyone should feel welcome on the web — no matter their background, skill level, or device.”
+> “I believe everyone should feel welcome on the web, no matter their background, skill level, or device.”
 
 Thanks for stopping by 👋
